@@ -1,0 +1,8 @@
+D:\work\TeamProj\Gera\Gera\bin\Release\Gera.exe
+D:\work\TeamProj\Gera\Gera\bin\Release\Gera.pdb
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.csprojResolveAssemblyReference.cache
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.Form1.resources
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.Properties.Resources.resources
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.csproj.GenerateResource.Cache
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.exe
+D:\work\TeamProj\Gera\Gera\obj\Release\Gera.pdb

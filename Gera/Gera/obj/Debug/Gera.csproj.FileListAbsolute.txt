@@ -1,0 +1,10 @@
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\bin\Debug\Gera.exe
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\bin\Debug\Gera.pdb
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.csprojResolveAssemblyReference.cache
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.Properties.Resources.resources
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.csproj.GenerateResource.Cache
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.exe
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.pdb
+c:\users\толя\documents\visual studio 2013\Projects\Gera\Gera\obj\Debug\Gera.Form1.resources
+d:\work\TeamProj\Gera\Gera\obj\Debug\Gera.exe
+d:\work\TeamProj\Gera\Gera\obj\Debug\Gera.pdb
